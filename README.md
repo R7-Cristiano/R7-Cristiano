@@ -1,4 +1,5 @@
-# 👋 Hi there! I'm R7-Cristiano
+# 👋 HELLO! I'm R7-Cristiano 
+
 
 - 💻 Backend, Frontend Developer from Seoul
 - 🎓 Student at Seokyeong University
