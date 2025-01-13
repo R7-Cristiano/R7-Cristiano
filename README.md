@@ -11,10 +11,20 @@
   <!-- Velog Stats (통계용 배지) -->
   [![Velog Stats](https://velog-readme-stats.vercel.app/api?name=ronaldo_7)](https://velog.io/@ronaldo_7)
   
-  ## ⚒️기술스택
+  ## ⚒️ MY Stack
 
   ### Frontend
-  [![My Skills](https://skillicons.dev/icons?i=js,html,react,css,node.js)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,react,redux,css,vue,jquery)](https://skillicons.dev)
+  ### Backend
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,gradle,nestjs)](https://skillicons.dev)
+  ### Database
+  [![My Skills](https://skillicons.dev/icons?i=mysql,dynamodb)](https://skillicons.dev)
+  ### Cloud
+  [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+  ### Git Tools
+  [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+  
   
   
   ## 🏅 Baekjoon Online Judge Tier 
