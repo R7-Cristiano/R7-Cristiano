@@ -12,8 +12,9 @@
   [![Velog Stats](https://velog-readme-stats.vercel.app/api?name=ronaldo_7)](https://velog.io/@ronaldo_7)
   
   ## ⚒️기술스택
-  
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+  ### Frontend
+  [![My Skills](https://skillicons.dev/icons?i=js,html,React,css,node.js)](https://skillicons.dev)
   
   
   ## 🏅 Baekjoon Online Judge Tier 
