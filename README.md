@@ -11,9 +11,7 @@
 <!-- Velog Stats (통계용 배지) -->
 [![Velog Stats](https://velog-readme-stats.vercel.app/api?name=ronaldo_7)](https://velog.io/@ronaldo_7)
 
-
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 ## 🏅 Baekjoon Online Judge Tier 
