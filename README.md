@@ -13,35 +13,57 @@
   
 
 
-  ## ⚒️ MY Stack
-  
-  ### Frontend
-  [![My Skills](https://skillicons.dev/icons?i=js,html,react,redux,css,vue,jquery)](https://skillicons.dev)  
-  `JavaScript`, `HTML`, `React`, `Redux`, `CSS`, `Vue.js`, `jQuery`
-  
-  <table>
+## ⚒️ MY Stack
+
+<table>
   <tr>
     <td align="center">
-      <strong>Backend</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,spring,gradle,nestjs" alt="Backend Skills"></a><br>
-      `Node.js`, `Express`, `Spring`, `Gradle`, `NestJS`
+      <strong>Frontend</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,react,redux,css,vue,jquery" alt="Frontend Skills">
+      </a>
+      <br>
+      <code>JavaScript</code>, <code>HTML</code>, <code>React</code>, <code>Redux</code>, <code>CSS</code>, <code>Vue.js</code>, <code>jQuery</code>
     </td>
     <td align="center">
+      <strong>Backend</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,spring,gradle,nestjs" alt="Backend Skills">
+      </a>
+      <br>
+      <code>Node.js</code>, <code>Express</code>, <code>Spring</code>, <code>Gradle</code>, <code>NestJS</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <strong>Database</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,dynamodb" alt="Database Skills"></a><br>
-      `MySQL`, `DynamoDB`
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,dynamodb" alt="Database Skills">
+      </a>
+      <br>
+      <code>MySQL</code>, <code>DynamoDB</code>
     </td>
     <td align="center">
       <strong>Cloud</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" alt="Cloud Skills"></a><br>
-      `AWS`
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws" alt="Cloud Skills">
+      </a>
+      <br>
+      <code>AWS</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Git Tools</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github" alt="Git Tools">
+      </a>
+      <br>
+      <code>Git</code>, <code>GitHub</code>
     </td>
   </tr>
 </table>
-  
-  ### Git Tools
-  [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  
-  `Git`, `GitHub`
+
 
 
   
