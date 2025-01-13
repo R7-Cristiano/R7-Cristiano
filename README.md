@@ -19,17 +19,25 @@
   [![My Skills](https://skillicons.dev/icons?i=js,html,react,redux,css,vue,jquery)](https://skillicons.dev)  
   `JavaScript`, `HTML`, `React`, `Redux`, `CSS`, `Vue.js`, `jQuery`
   
-  ### Backend
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,gradle,nestjs)](https://skillicons.dev)  
-  `Node.js`, `Express`, `Spring`, `Gradle`, `NestJS`
-  
-  ### Database
-  [![My Skills](https://skillicons.dev/icons?i=mysql,dynamodb)](https://skillicons.dev)  
-  `MySQL`, `DynamoDB`
-  
-  ### Cloud
-  [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)  
-  `AWS`
+  <table>
+  <tr>
+    <td align="center">
+      <strong>Backend</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,spring,gradle,nestjs" alt="Backend Skills"></a><br>
+      `Node.js`, `Express`, `Spring`, `Gradle`, `NestJS`
+    </td>
+    <td align="center">
+      <strong>Database</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,dynamodb" alt="Database Skills"></a><br>
+      `MySQL`, `DynamoDB`
+    </td>
+    <td align="center">
+      <strong>Cloud</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" alt="Cloud Skills"></a><br>
+      `AWS`
+    </td>
+  </tr>
+</table>
   
   ### Git Tools
   [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  
