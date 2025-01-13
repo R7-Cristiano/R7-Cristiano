@@ -8,7 +8,7 @@
 <h2>📖 Blog</h2>
 
 <p>
-  <a href="https://velog.io/@ronaldo_7/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" /></a>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ronaldo_7)](https://velog.io/@eungyeole) 
 </p>
 
 
