@@ -1,5 +1,4 @@
-# 👋 HELLO! I'm R7-Cristiano 
-
+# 👋 안녕하세요! 개발자 이은학입니다!
 
 - 💻 Backend, Frontend Developer from Seoul
 - 🎓 Student at Seokyeong University, senior 
