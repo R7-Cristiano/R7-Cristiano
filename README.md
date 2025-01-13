@@ -2,8 +2,7 @@
 
 
 - 💻 Backend, Frontend Developer from Seoul
-- 🎓 Student at Seokyeong University
-- 🌟 I love contributing to open source projects!
+- 🎓 Student at Seokyeong University, senior 
 
 
 <h2>📖 Blog</h2>
