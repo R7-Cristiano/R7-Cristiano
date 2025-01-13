@@ -11,6 +11,8 @@
 <!-- Velog Stats (통계용 배지) -->
 [![Velog Stats](https://velog-readme-stats.vercel.app/api?name=ronaldo_7)](https://velog.io/@ronaldo_7)
 
+## ⚒️기술스택
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
