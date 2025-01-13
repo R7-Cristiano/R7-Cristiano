@@ -3,13 +3,13 @@
 - 💻 Backend, Frontend Developer from Seoul
 - 🎓 Student at Seokyeong University, senior 
 
-  ## 📖 Blog
+## 📖 Blog
   
-  <!-- Velog Badge (연결용 배지) -->
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ronaldo_7)](https://velog.io/@ronaldo_7)
+<!-- Velog Badge (연결용 배지) -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ronaldo_7)](https://velog.io/@ronaldo_7)
   
-  <!-- Velog Stats (통계용 배지) -->
-  [![Velog Stats](https://velog-readme-stats.vercel.app/api?name=ronaldo_7)](https://velog.io/@ronaldo_7)
+<!-- Velog Stats (통계용 배지) -->
+[![Velog Stats](https://velog-readme-stats.vercel.app/api?name=ronaldo_7)](https://velog.io/@ronaldo_7)
   
 
 
