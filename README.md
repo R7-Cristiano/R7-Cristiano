@@ -14,7 +14,7 @@
   ## ⚒️기술스택
 
   ### Frontend
-  [![My Skills](https://skillicons.dev/icons?i=js,html,React,css,node.js)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,react,css,node.js)](https://skillicons.dev)
   
   
   ## 🏅 Baekjoon Online Judge Tier 
