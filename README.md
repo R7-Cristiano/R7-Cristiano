@@ -7,9 +7,7 @@
 
 <h2>📖 Blog</h2>
 
-<p>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ronaldo_7)](https://velog.io/@eungyeole) 
-</p>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ronaldo_7)](https://velog.io/@ronaldo_7)
 
 
 ## 🏅 Baekjoon Online Judge Tier 
